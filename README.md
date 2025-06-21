@@ -86,7 +86,7 @@
 - 💡 Skilled in Backend Development, CI/CD, Machine Learning and Deep Learning
 - 💬 Ask me about **Java, Spring Boot, MySQL, Python, DSA, Machine Learning, Deep Learning, System Design**
 - 🌱 Currently exploring advanced AI & system design topics
-- 📫 Reach me at: `sumit2121999@gmail.com`
+- 📫 Reach me at: `sumitkumariiita@gmail.com`
 - ⚡ Fun Fact: I'm a big fan of solving DSA problems and enjoy system-level debugging!
 
 ---
