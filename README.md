@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">Passionate Software Engineer | Java Developer | Problem Solver</h3>
+<h3 align="center">Passionate Software Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumitkumar212/" target="_blank">
