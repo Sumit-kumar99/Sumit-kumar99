@@ -22,7 +22,7 @@
 ---
 
 ### 💼 Work Experience
-- 💻 **Software Engineer** @ Infosys (Past)
+- 💻 **Developer** @ EXL (Present)
 
 ---
 
